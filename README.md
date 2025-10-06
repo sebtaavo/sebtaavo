@@ -9,7 +9,7 @@ Java, Python, Javascript, HTML, C, MIPS 32 assembly.
 ## Courses
 * Ethical Hacking (Kali Linux, Data Exfiltration, Privilege Escalation, Remote Exploitation, Binary Exploitation, Client-side Attacks, Cloud Hacking, Traffic Sniffing)
 
-* Data Storage Paradigms (SQL, MySQL, SQLite, PostgreSQL, Database Design, Normalisation Strategies, Indexing)
+* Data Storage Paradigms (SQL, MySQL, SQLite, PostgreSQL, Database Design, Normalisation Strategies, Indexing, Physical Storage Mediums, RAID setups)
 
 * Hardware Security (Public & Private Key Crypto, TRNGs, PUF-based encryption, Side-channel Attacks, Hardware Security, DPA-attacks On AES, Neural Networks in DPA)
 
