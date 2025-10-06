@@ -1,7 +1,7 @@
 <img width="968" height="360" alt="banner" src="https://github.com/user-attachments/assets/47c9181d-6786-44ae-b299-d804ad8726ed" />
 
 ## About me
-I'm a third year engineering student at KTH university in Stockholm, studying a bachelor's degree in computer science. I dabble in video game development recreationally, but I'm particularly interested in all things cyber-sec.
+I'm a third year engineering student at KTH university in Stockholm, studying a bachelor's degree in computer science. I dabble in video game development recreationally, but I'm particularly interested in all things cyber-sec. Besides being a tech geek I'm also incredibly fascinated by topics like sustainable gardening, permaculture, agroforestry, mushroom picking and net-zero emission architectures.
 
 ## Coding languages
 Java, Python, Javascript, HTML, C, MIPS 32 assembly.
