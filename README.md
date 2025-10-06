@@ -5,10 +5,15 @@ I'm a third year engineering student at KTH university in Stockholm, studying a 
 Proficient in Java, Python, Javascript, HTML, C, MIPS 32 assembly.
 
 ## Courses
-Interaction Programming & Web Development (Node.js, Vue, React, HTML, Google Firebase/Firestore/Authentication)
-
 Ethical Hacking (Kali Linux, Data Exfiltration, Privilege Escalation, Remote Exploitation, Binary Exploitation, Client-side Attacks, Cloud Hacking, Traffic Sniffing)
 
 Data Storage Paradigms (SQL, MySQL, SQLite, PostgreSQL, Database Design, Normalisation Strategies, Indexing)
+
+Hardware Security (Public & Private Key Crypto, TRNGs, PUF-based encryption, Side-channel Attacks, Hardware Security, DPA-attacks On AES, Neural Networks in DPA)
+
+Interaction Programming & Web Development (Node.js, Vue, React, HTML, Google Firebase/Firestore/Authentication)
+
+
+
 
 
