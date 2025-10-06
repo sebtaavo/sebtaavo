@@ -11,7 +11,7 @@ Java, Python, Javascript, HTML, C, MIPS 32 assembly.
 
 * Data Storage Paradigms (SQL, MySQL, SQLite, DBMS, OLTP/OLAP, Graph Databases, Database Design, Normalisation Strategies, Indexing, Physical Storage Mediums, RAID setups)
 
-* Hardware Security (Public & Private Key Crypto, TRNGs, PUF-based encryption, Side-channel Attacks, Hardware Security, DPA-attacks On AES, Neural Networks in DPA)
+* Hardware Security (Public & Private Key Crypto, TRNGs, PUF-based encryption, Side-channel Attacks, Hardware Trojans, DPA-attacks On AES, Neural Networks in DPA)
 
 * Concurrent Programming (Multithreading, Distributed Computing, Remote Procedure Calling, Speedup Estimation and Analysis, Data Parallelism, Concurrent Objects, Semaphores, Locks) 
 
