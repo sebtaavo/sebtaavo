@@ -13,6 +13,8 @@ Java, Python, Javascript, HTML, C, MIPS 32 assembly.
 
 * Hardware Security (Public & Private Key Crypto, TRNGs, PUF-based encryption, Side-channel Attacks, Hardware Security, DPA-attacks On AES, Neural Networks in DPA)
 
+* Concurrent Programming (Multithreading, Distributed Computing, Remote Procedure Calling, Speedup Estimation and Analysis, Data Parallelism, Concurrent Objects, Semaphores, Locks) 
+
 * Interaction Programming & Web Development (Node.js, Vue, React, HTML, Google Firebase/Firestore/Authentication)
 
 * Projects and Project Methods (SCRUM, Waterfall, Agile)
